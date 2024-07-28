@@ -88,7 +88,7 @@ function Header() {
                       <div className="col-md-6">
                         <div className="detail-box">
                           <h1>
-                            Raksha Bandhan Spacial Offers for You{" "}
+                            Raksha Bandhan special Offers for You{" "}
                             <span className="pred">20% OFF</span>{" "}
                           </h1>
                           <p>
